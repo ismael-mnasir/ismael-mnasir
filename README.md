@@ -1,8 +1,9 @@
-Hi, I'm Seyfan Kelil Shukri 👋
+Hi, I'm Ismael Nasir 👋
 Data Analyst | Statistical Physics | Computational Modeling | Machine Learning
 
 🧠 About Me
-I am a Data Analyst and physicist specializing in statistical analysis, machine learning, and computational modeling. I enjoy working with complex datasets, building analytical pipelines, and extracting meaningful patterns that support decision‑making. I thrive in both team‑based and independent environments, bringing a disciplined, research‑driven mindset to every project.
+I am a Data Analyst and Economist with a strong background in statistical analysis, data modeling, machine learning, and business intelligence. I specialize in transforming complex datasets into actionable insights using SQL, Python, Power BI, and advanced analytical techniques. My experience includes developing analytical pipelines, building interactive dashboards, performing statistical analysis, and identifying meaningful patterns that support data-driven decision-making. I bring a research-driven and quantitative mindset, strong problem-solving skills, and the ability to work effectively both independently and collaboratively.
+
 
 🛠️ Skills & Tools
 
