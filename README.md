@@ -60,28 +60,28 @@ I am a Data Analyst, Economist, and data professional with expertise in data ana
   <img src="https://img.shields.io/badge/Ph.D._Economics-4B9CD3?style=for-the-badge" />
   <br>
   <strong>Necmettin Erbakan University</strong><br>
-  <em>PhD in Economics</em>
+  <em>
   <br><br>
 
-  <!-- MSc Financial Engineering -->
+  <!-- MSc in Financial Engineering -->
   <img src="https://img.shields.io/badge/M.Sc._Financial_Engineering-8A2BE2?style=for-the-badge" />
   <br>
   <strong>WorldQuant University</strong><br>
-  <em>MSc in Financial Engineering</em>
+  <em>
   <br><br>
 
-  <!-- MSc Economics -->
+  <!-- MSc in Economics -->
   <img src="https://img.shields.io/badge/M.Sc._Economics-FF8C00?style=for-the-badge" />
   <br>
   <strong>Jimma University</strong><br>
-  <em>MSc in Economics</em>
+  <em>
   <br><br>
 
   <!-- BA Economics -->
   <img src="https://img.shields.io/badge/B.A._Economics-2E8B57?style=for-the-badge" />
   <br>
   <strong>Jimma University</strong><br>
-  <em>BA in Economics</em>
+  <em>
   <br><br>
 
   <!-- Data Analysis Certificate -->
@@ -92,7 +92,6 @@ I am a Data Analyst, Economist, and data professional with expertise in data ana
 
 </p>
 
-👨‍🏫 Work Experience
 ## 💼 Work Experience
 
 <p align="left">
@@ -151,8 +150,7 @@ I am a Data Analyst, Economist, and data professional with expertise in data ana
   <!-- Ethiopian Scout Association -->
   <img src="https://img.shields.io/badge/Ethiopian_Scout_Association-Boy_Scout-FF8C00?style=for-the-badge" />
 
-</p>
-## 🌐 Connect with Me
+</p>Me
 
 ## 🌐 Connect with Me
 
