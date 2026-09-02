@@ -57,72 +57,101 @@ I am a Data Analyst, Economist, and data professional with expertise in data ana
 <p align="left">
 
   <!-- PhD -->
-  <img src="https://img.shields.io/badge/Ph.D._Statistical_Physics-2014–2021-4B9CD3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ph.D._Economics-4B9CD3?style=for-the-badge" />
   <br>
-  <strong>Addis Ababa University</strong><br>
-  <em>Transport Properties of Charge Carriers in Disordered Organic Semiconductors using Monte Carlo Simulations</em>
+  <strong>Necmettin Erbakan University</strong><br>
+  <em>PhD in Economics</em>
   <br><br>
 
-  <!-- MSc -->
-  <img src="https://img.shields.io/badge/M.Sc._Physics-2008–2010-8A2BE2?style=for-the-badge" />
+  <!-- MSc Financial Engineering -->
+  <img src="https://img.shields.io/badge/M.Sc._Financial_Engineering-8A2BE2?style=for-the-badge" />
   <br>
-  <strong>Addis Ababa University</strong>
+  <strong>WorldQuant University</strong><br>
+  <em>MSc in Financial Engineering</em>
   <br><br>
 
-  <!-- BEd -->
-  <img src="https://img.shields.io/badge/B.Ed._Physics-2003–2006-FF8C00?style=for-the-badge" />
+  <!-- MSc Economics -->
+  <img src="https://img.shields.io/badge/M.Sc._Economics-FF8C00?style=for-the-badge" />
   <br>
-  <strong>Jimma University</strong>
+  <strong>Jimma University</strong><br>
+  <em>MSc in Economics</em>
+  <br><br>
+
+  <!-- BA Economics -->
+  <img src="https://img.shields.io/badge/B.A._Economics-2E8B57?style=for-the-badge" />
+  <br>
+  <strong>Jimma University</strong><br>
+  <em>BA in Economics</em>
+  <br><br>
+
+  <!-- Data Analysis Certificate -->
+  <img src="https://img.shields.io/badge/Data_Analysis_Pathway-Certificate_of_Completion-6A5ACD?style=for-the-badge" />
+  <br>
+  <strong>Montgomery College Information Technology Institute (ITI)</strong><br>
+  <em>TechMAP</em>
 
 </p>
 
-
 👨‍🏫 Work Experience
-Assistant Professor — Adama Science and Technology University (2021–2023)
-Advanced Computational Physics • Statistical Physics • Research Data Analysis
-Led computational research using ab‑initio methods and Kinetic Monte Carlo simulations.
-Developed custom Fortran‑based modeling tools.
-Performed large‑scale data cleaning, statistical modeling, and quantitative analysis.
-Conducted research on charge transport in disordered organic materials.
+## 💼 Work Experience
 
-📊 Data Analyst Experience
-Data Analyst — Insurance Company (2021–2024)
-Power BI • SQL • Python • Risk Analytics
-Analyzed customer, claims, and financial datasets to identify trends and anomalies.
-Built Power BI dashboards visualizing KPIs (loss ratios, retention, segmentation).
-Queried SQL databases to generate insights for underwriting and management.
-Developed predictive models using Python (Pandas, NumPy, Scikit‑learn).
-Automated recurring reports using Python.
+<p align="left">
 
-Data Analyst — University Data Analytics Office (2018–2023)
-Power BI • Excel • SQL • Institutional Analytics
-Conducted institutional analysis on enrollment trends and student performance.
-Cleaned and transformed large datasets using Python, SQL, and Power Query.
-Built dashboards for academic planning and resource allocation.
-Applied statistical methods to evaluate program effectiveness.
-Collaborated with departments to translate raw data into actionable insights.
+  <!-- Assistant Professor/Research Data Analyst -->
+  <img src="https://img.shields.io/badge/Assistant_Professor_of_Economics-Research_Data_Analyst-4B9CD3?style=for-the-badge" />
+  <br>
+  <strong>Jimma University | Aug 2022 – May 2024</strong><br>
+  <em>STATA • R • Python • Statistical Analysis • Research Data Analysis</em>
+  <br><br>
 
+  <!-- Research Data Analyst -->
+  <img src="https://img.shields.io/badge/Research_Data_Analyst-8A2BE2?style=for-the-badge" />
+  <br>
+  <strong>Necmettin Erbakan University, Turkey | Sep 2018 – Jun 2022</strong><br>
+  <em>R • STATA • SPSS • Python • Statistical Modeling</em>
+  <br><br>
 
+  <!-- Data Analyst -->
+  <img src="https://img.shields.io/badge/Data_Analyst-FF8C00?style=for-the-badge" />
+  <br>
+  <strong>Jimma University | Jan 2016 – Jun 2018</strong><br>
+  <em>SQL • Python • Power BI • Data Analysis • Data Visualization</em>
+  <br><br>
+
+  <!-- Business Analyst -->
+  <img src="https://img.shields.io/badge/Business_Analyst_MIS_Implementation-2E8B57?style=for-the-badge" />
+  <br>
+  <strong>Jimma University | Aug 2012 – Oct 2016</strong><br>
+  <em>MIS • Business Analysis • Reporting • Data-Driven Decision Making</em>
+
+</p>
 
 ## 🧩 Professional Memberships
 
 <p align="left">
 
-  <!-- EPS -->
-  <img src="https://img.shields.io/badge/Ethiopian_Physical_Society-(EPS)-4B9CD3?style=for-the-badge" />
+  <!-- EEA -->
+  <img src="https://img.shields.io/badge/Ethiopian_Economic_Association-(EEA)-4B9CD3?style=for-the-badge" />
 
-  <!-- ESSS -->
-  <img src="https://img.shields.io/badge/Ethiopian_Space_Science_Society-(ESSS)-8A2BE2?style=for-the-badge" />
-
-  <!-- CSESE -->
-  <img src="https://img.shields.io/badge/Computational_Science_&_Engineering_Society_of_Ethiopia-(CSESE)-FF8C00?style=for-the-badge" />
-
-  <!-- APS -->
-  <img src="https://img.shields.io/badge/American_Physical_Society-(APS)-000000?style=for-the-badge&logo=americanphysicalsociety&logoColor=white" />
+  <!-- WEA -->
+  <img src="https://img.shields.io/badge/World_Economics_Association-(WEA)-8A2BE2?style=for-the-badge" />
 
 </p>
 
+## 🤝 Community & Voluntary Services
 
+<p align="left">
+
+  <!-- DMV OIC -->
+  <img src="https://img.shields.io/badge/DMV_OIC-Vice_President_&_Board_Member-4B9CD3?style=for-the-badge" />
+
+  <!-- ODA -->
+  <img src="https://img.shields.io/badge/ODA_Research_&_Development_Association-Founding_&_Board_Member-8A2BE2?style=for-the-badge" />
+
+  <!-- Ethiopian Scout Association -->
+  <img src="https://img.shields.io/badge/Ethiopian_Scout_Association-Boy_Scout-FF8C00?style=for-the-badge" />
+
+</p>
 ## 🌐 Connect with Me
 
 <p align="left">
