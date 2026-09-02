@@ -62,7 +62,6 @@ I am a Data Analyst, Economist, and data professional with expertise in data ana
   <strong>Necmettin Erbakan University</strong><br>
   <em>
   <br><br>
-
   <!-- MSc in Financial Engineering -->
   <img src="https://img.shields.io/badge/M.Sc._Financial_Engineering-8A2BE2?style=for-the-badge" />
   <br>
