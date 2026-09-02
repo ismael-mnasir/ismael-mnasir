@@ -88,7 +88,7 @@ I am a Data Analyst, Economist, and data professional with expertise in data ana
   <img src="https://img.shields.io/badge/Data_Analysis_Pathway-Certificate_of_Completion-6A5ACD?style=for-the-badge" />
   <br>
   <strong>Montgomery College Information Technology Institute (ITI)</strong><br>
-  <em>TechMAP</em>
+  <em>
 
 </p>
 
