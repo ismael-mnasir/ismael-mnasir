@@ -67,22 +67,19 @@ I am a Data Analyst, Economist, and data professional with expertise in data ana
   <br>
   <strong>WorldQuant University</strong><br>
   <em>
-  <br><br>
 
   <!-- MSc in Economics -->
   <img src="https://img.shields.io/badge/M.Sc._Economics-FF8C00?style=for-the-badge" />
   <br>
   <strong>Jimma University</strong><br>
   <em>
-  <br><br>
 
   <!-- BA Economics -->
   <img src="https://img.shields.io/badge/B.A._Economics-2E8B57?style=for-the-badge" />
   <br>
   <strong>Jimma University</strong><br>
   <em>
-  <br><br>
-
+  
   <!-- Data Analysis Certificate -->
   <img src="https://img.shields.io/badge/Data_Analysis_Pathway-Certificate_of_Completion-6A5ACD?style=for-the-badge" />
   <br>
