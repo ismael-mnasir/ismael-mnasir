@@ -119,7 +119,7 @@ I am a Data Analyst, Economist, and data professional with expertise in data ana
   <br><br>
 
   <!-- Business Analyst -->
-  <img src="https://img.shields.io/badge/Business_Analyst_MIS_Implementation-2E8B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Business_Analyst-2E8B57?style=for-the-badge" />
   <br>
   <strong>Jimma University | Aug 2012 – Oct 2016</strong><br>
   <em>MIS • Business Analysis • Reporting • Data-Driven Decision Making</em>
@@ -154,29 +154,40 @@ I am a Data Analyst, Economist, and data professional with expertise in data ana
 </p>
 ## 🌐 Connect with Me
 
+## 🌐 Connect with Me
+
 <p align="left">
 
   <!-- Location -->
   <img src="https://img.shields.io/badge/Location-U.S.A-blue?style=for-the-badge" />
 
   <!-- Email -->
-  <a href="mailto:seyfan74@gmail.com">
-    <img src="https://img.shields.io/badge/Email-seyfan74%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:ismaelmnasir@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ismaelmnasir%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <!-- Phone -->
-  <a href="tel:+13145564354">
-    <img src="https://img.shields.io/badge/Phone-%2B1%20314%20556%204354-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="tel:+12404787707">
+    <img src="https://img.shields.io/badge/Phone-%2B1%20240%20478%207707-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
-  <!-- ResearchGate -->
-  <a href="https://researchgate.net/profile/Seyfan-Shukri" target="_blank">
-    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />
+  <!-- GitHub -->
+  <a href="https://github.com/ismael-mnasir" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-ismael--mnasir-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <!-- Google Scholar -->
-  <a href="https://scholar.google.com/citations?hl=en&user=E-PMV-0AAAAJ" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
   </a>
 
-</p>
+  <!-- ResearchGate -->
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />
+  </a>
+
