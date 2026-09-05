@@ -126,37 +126,6 @@ I am a Data Analyst, Economist, and data professional with expertise in data ana
 
 ## 💼 Work Experience
 
-<p align="left">
-
-<!-- Assistant Professor / Research Data Analyst -->
-<img src="https://img.shields.io/badge/Assistant_Professor_of_Economics-Research_Data_Analyst-4B9CD3?style=for-the-badge" />
-<br>
-<strong>Jimma University | Aug 2022 – May 2024</strong><br>
-<em>STATA • R • Python • Statistical Analysis • Research Data Analysis</em>
-<br><br>
-
-<!-- Research Data Analyst -->
-<img src="https://img.shields.io/badge/Research_Data_Analyst-8A2BE2?style=for-the-badge" />
-<br>
-<strong>Necmettin Erbakan University, Turkey | Sep 2018 – Jun 2022</strong><br>
-<em>R • STATA • SPSS • Python • Statistical Modeling</em>
-<br><br>
-
-<!-- Data Analyst -->
-<img src="https://img.shields.io/badge/Data_Analyst-FF8C00?style=for-the-badge" />
-<br>
-<strong>Jimma University | Jan 2016 – Jun 2018</strong><br>
-<em>SQL • Python • Power BI • Data Analysis • Data Visualization</em>
-<br><br>
-
-<!-- Business Analyst -->
-<img src="https://img.shields.io/badge/Business_Analyst-2E8B57?style=for-the-badge" />
-<br>
-<strong>Jimma University | Aug 2012 – Oct 2016</strong><br>
-<em>MIS • Business Analysis • Reporting • Data-Driven Decision Making</em>
-
-</p>
-
 ---
 
 ## 🏆 Certifications
