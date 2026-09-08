@@ -143,7 +143,6 @@ I am a Data Analyst, Economist, and data professional with expertise in data ana
 
 ## 💼 Professional Experience
 
-
   <!-- Marriott International -->
   <img src="https://img.shields.io/badge/Guest_Experience_Specialist-Customer_Service_Supervisor_Associate-4B9CD3?style=for-the-badge" />
   <br>
@@ -154,7 +153,6 @@ I am a Data Analyst, Economist, and data professional with expertise in data ana
     <li>Prepare and validate operational and financial reports, ensuring accuracy and consistency.</li>
     <li>Investigate reporting discrepancies, identify root causes, and coordinate with teams to resolve operational and data issues.</li>
   </ul>
-
   <!-- Assistant Professor / Research Data Analyst -->
   <img src="https://img.shields.io/badge/Assistant_Professor-Research_Data_Analyst-8A2BE2?style=for-the-badge" />
   <br>
@@ -165,7 +163,6 @@ I am a Data Analyst, Economist, and data professional with expertise in data ana
     <li>Applied statistical methods to identify patterns and trends and support research findings.</li>
     <li>Developed analytical reports, visualizations, and data-quality checks to improve research outputs.</li>
   </ul>
-
   <!-- Research Data Analyst -->
   <img src="https://img.shields.io/badge/Research_Data_Analyst-FF8C00?style=for-the-badge" />
   <br>
@@ -176,7 +173,6 @@ I am a Data Analyst, Economist, and data professional with expertise in data ana
     <li>Cleaned, transformed, and validated research data for reliable statistical analysis.</li>
     <li>Created visualizations and analytical reports communicating complex findings to technical and non-technical stakeholders.</li>
   </ul>
-
   <!-- Business Analyst -->
   <img src="https://img.shields.io/badge/Business_Analyst-2E8B57?style=for-the-badge" />
   <br>
@@ -187,7 +183,6 @@ I am a Data Analyst, Economist, and data professional with expertise in data ana
     <li>Developed user stories and functional requirements, translating business needs into project deliverables.</li>
     <li>Analyzed business processes, reporting requirements, and operational data to identify gaps and improve information flow.</li>
   </ul>
-
   <!-- Data Analyst / PBM&E Team Lead -->
   <img src="https://img.shields.io/badge/Data_Analyst-PBM%26E_Team_Lead-6A5ACD?style=for-the-badge" />
   <br>
@@ -198,7 +193,6 @@ I am a Data Analyst, Economist, and data professional with expertise in data ana
     <li>Developed Power BI dashboards to improve visibility into institutional performance indicators.</li>
     <li>Reconciled data from multiple sources and performed quality checks to improve reporting accuracy.</li>
   </ul>
-
   <!-- Planning, Programming & MIS Expert -->
   <img src="https://img.shields.io/badge/Planning_Programming_%26_MIS_Expert-1E90FF?style=for-the-badge" />
   <br>
@@ -228,7 +222,6 @@ I am a Data Analyst, Economist, and data professional with expertise in data ana
 </p>
 
 ---
-
 ## 🧩 Professional Memberships
 
 <p align="left">
@@ -242,7 +235,6 @@ I am a Data Analyst, Economist, and data professional with expertise in data ana
 </p>
 
 ---
-
 ## 🤝 Community & Voluntary Services
 
 <p align="left">
