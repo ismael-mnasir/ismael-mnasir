@@ -131,6 +131,8 @@ Data Analysis & Data Science Bootcamp — Datanomics Technologies: Python, SQL, 
 
 ## 💼 Work Experience
 
+## 💼 Professional Experience
+
 <p align="left">
 
   <!-- Marriott International -->
@@ -138,41 +140,65 @@ Data Analysis & Data Science Bootcamp — Datanomics Technologies: Python, SQL, 
   <br>
   <strong>Marriott International, Maryland, USA | Aug 2024 – Present</strong><br>
   <em>Guest Experience • Customer Service • Operational Reporting • Data Analysis</em>
-  <br><br>
+  <ul>
+    <li>Analyze guest feedback, operational information, and service data to identify trends and opportunities for improvement.</li>
+    <li>Prepare and validate operational and financial reports, ensuring accuracy and consistency.</li>
+    <li>Investigate reporting discrepancies, identify root causes, and coordinate with teams to resolve operational and data issues.</li>
+  </ul>
 
   <!-- Assistant Professor / Research Data Analyst -->
   <img src="https://img.shields.io/badge/Assistant_Professor-Research_Data_Analyst-8A2BE2?style=for-the-badge" />
   <br>
   <strong>Jimma University, Jimma, Ethiopia | Aug 2022 – May 2024</strong><br>
   <em>Python • R • STATA • Statistical Analysis • Research Data Analysis</em>
-  <br><br>
+  <ul>
+    <li>Collected, cleaned, transformed, and validated quantitative datasets using Python, R, and STATA.</li>
+    <li>Applied statistical methods to identify patterns and trends and support research findings.</li>
+    <li>Developed analytical reports, visualizations, and data-quality checks to improve research outputs.</li>
+  </ul>
 
   <!-- Research Data Analyst -->
   <img src="https://img.shields.io/badge/Research_Data_Analyst-FF8C00?style=for-the-badge" />
   <br>
   <strong>Necmettin Erbakan University, Konya, Turkey | Sep 2017 – Jun 2022</strong><br>
   <em>Python • R • STATA • SPSS • Data Preparation • Statistical Analysis</em>
-  <br><br>
+  <ul>
+    <li>Developed repeatable data preparation and analysis workflows using Python, R, STATA, and SPSS.</li>
+    <li>Cleaned, transformed, and validated research data for reliable statistical analysis.</li>
+    <li>Created visualizations and analytical reports communicating complex findings to technical and non-technical stakeholders.</li>
+  </ul>
 
   <!-- Business Analyst -->
   <img src="https://img.shields.io/badge/Business_Analyst-2E8B57?style=for-the-badge" />
   <br>
   <strong>Jimma University, Jimma, Ethiopia | Aug 2014 – Aug 2017</strong><br>
   <em>Business Analysis • Requirements Gathering • MIS • Process Analysis</em>
-  <br><br>
+  <ul>
+    <li>Elicited, analyzed, and documented stakeholder requirements for MIS development and process automation initiatives.</li>
+    <li>Developed user stories and functional requirements, translating business needs into project deliverables.</li>
+    <li>Analyzed business processes, reporting requirements, and operational data to identify gaps and improve information flow.</li>
+  </ul>
 
-  <!-- Data Analyst / PMBME Team Lead -->
+  <!-- Data Analyst / PBM&E Team Lead -->
   <img src="https://img.shields.io/badge/Data_Analyst-PBM%26E_Team_Lead-6A5ACD?style=for-the-badge" />
   <br>
   <strong>Jimma University, Jimma, Ethiopia | Jul 2012 – Jul 2014</strong><br>
   <em>SQL • Python • Power BI • Data Validation • Data Analysis</em>
-  <br><br>
+  <ul>
+    <li>Extracted, cleaned, validated, transformed, and analyzed institutional data using SQL and Python.</li>
+    <li>Developed Power BI dashboards to improve visibility into institutional performance indicators.</li>
+    <li>Reconciled data from multiple sources and performed quality checks to improve reporting accuracy.</li>
+  </ul>
 
   <!-- Planning, Programming & MIS Expert -->
   <img src="https://img.shields.io/badge/Planning_Programming_%26_MIS_Expert-1E90FF?style=for-the-badge" />
   <br>
   <strong>Jimma University, Jimma, Ethiopia | Jul 2010 – Jul 2012</strong><br>
   <em>Strategic Planning • MIS • Reporting • Data Analysis • Data Modeling</em>
+  <ul>
+    <li>Supported strategic planning, program development, monitoring, and evaluation through quantitative analysis and reporting.</li>
+    <li>Prepared analytical reports, dashboards, and data models to support institutional decision-making.</li>
+  </ul>
 
 </p>
 
