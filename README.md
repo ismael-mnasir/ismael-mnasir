@@ -124,10 +124,22 @@ I am a Data Analyst, Economist, and data professional with expertise in data ana
 
 ---
 
-## TECHNICAL TRAINING
+## 📚 Technical Training
 
-Data Analytics Pathway Bootcamp — Montgomery College, ITI: SQL, Python, databases, data analytics, and visualization.
-Data Analysis & Data Science Bootcamp — Datanomics Technologies: Python, SQL, databases, Power BI, AWS, data analytics, and data science.
+<p align="left">
+
+  <!-- Montgomery College -->
+  <img src="https://img.shields.io/badge/Data_Analytics_Pathway_Bootcamp-Montgomery_College_ITI-4B9CD3?style=for-the-badge" />
+  <br>
+  <em>SQL • Python • Databases • Data Analytics • Data Visualization</em>
+  <br><br>
+
+  <!-- Datanomics Technologies -->
+  <img src="https://img.shields.io/badge/Data_Analysis_%26_Data_Science_Bootcamp-Datanomics_Technologies-8A2BE2?style=for-the-badge" />
+  <br>
+  <em>Python • SQL • Databases • Power BI • AWS • Data Analytics • Data Science</em>
+
+</p>
 
 ## 💼 Work Experience
 
