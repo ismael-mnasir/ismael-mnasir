@@ -141,8 +141,6 @@ I am a Data Analyst, Economist, and data professional with expertise in data ana
 
 </p>
 
-## 💼 Work Experience
-
 ## 💼 Professional Experience
 
 <p align="left">
