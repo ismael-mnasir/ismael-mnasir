@@ -124,14 +124,57 @@ I am a Data Analyst, Economist, and data professional with expertise in data ana
 
 ---
 
-TECHNICAL TRAINING
+## TECHNICAL TRAINING
 
 Data Analytics Pathway Bootcamp — Montgomery College, ITI: SQL, Python, databases, data analytics, and visualization.
 Data Analysis & Data Science Bootcamp — Datanomics Technologies: Python, SQL, databases, Power BI, AWS, data analytics, and data science.
 
 ## 💼 Work Experience
 
----
+<p align="left">
+
+  <!-- Marriott International -->
+  <img src="https://img.shields.io/badge/Guest_Experience_Specialist-Customer_Service_Supervisor_Associate-4B9CD3?style=for-the-badge" />
+  <br>
+  <strong>Marriott International, Maryland, USA | Aug 2024 – Present</strong><br>
+  <em>Guest Experience • Customer Service • Operational Reporting • Data Analysis</em>
+  <br><br>
+
+  <!-- Assistant Professor / Research Data Analyst -->
+  <img src="https://img.shields.io/badge/Assistant_Professor-Research_Data_Analyst-8A2BE2?style=for-the-badge" />
+  <br>
+  <strong>Jimma University, Jimma, Ethiopia | Aug 2022 – May 2024</strong><br>
+  <em>Python • R • STATA • Statistical Analysis • Research Data Analysis</em>
+  <br><br>
+
+  <!-- Research Data Analyst -->
+  <img src="https://img.shields.io/badge/Research_Data_Analyst-FF8C00?style=for-the-badge" />
+  <br>
+  <strong>Necmettin Erbakan University, Konya, Turkey | Sep 2017 – Jun 2022</strong><br>
+  <em>Python • R • STATA • SPSS • Data Preparation • Statistical Analysis</em>
+  <br><br>
+
+  <!-- Business Analyst -->
+  <img src="https://img.shields.io/badge/Business_Analyst-2E8B57?style=for-the-badge" />
+  <br>
+  <strong>Jimma University, Jimma, Ethiopia | Aug 2014 – Aug 2017</strong><br>
+  <em>Business Analysis • Requirements Gathering • MIS • Process Analysis</em>
+  <br><br>
+
+  <!-- Data Analyst / PMBME Team Lead -->
+  <img src="https://img.shields.io/badge/Data_Analyst-PBM%26E_Team_Lead-6A5ACD?style=for-the-badge" />
+  <br>
+  <strong>Jimma University, Jimma, Ethiopia | Jul 2012 – Jul 2014</strong><br>
+  <em>SQL • Python • Power BI • Data Validation • Data Analysis</em>
+  <br><br>
+
+  <!-- Planning, Programming & MIS Expert -->
+  <img src="https://img.shields.io/badge/Planning_Programming_%26_MIS_Expert-1E90FF?style=for-the-badge" />
+  <br>
+  <strong>Jimma University, Jimma, Ethiopia | Jul 2010 – Jul 2012</strong><br>
+  <em>Strategic Planning • MIS • Reporting • Data Analysis • Data Modeling</em>
+
+</p>
 
 ## 🏆 Certifications
 
