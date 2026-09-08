@@ -124,6 +124,11 @@ I am a Data Analyst, Economist, and data professional with expertise in data ana
 
 ---
 
+TECHNICAL TRAINING
+
+Data Analytics Pathway Bootcamp — Montgomery College, ITI: SQL, Python, databases, data analytics, and visualization.
+Data Analysis & Data Science Bootcamp — Datanomics Technologies: Python, SQL, databases, Power BI, AWS, data analytics, and data science.
+
 ## 💼 Work Experience
 
 ---
