@@ -143,7 +143,6 @@ I am a Data Analyst, Economist, and data professional with expertise in data ana
 
 ## 💼 Professional Experience
 
-<p align="left">
 
   <!-- Marriott International -->
   <img src="https://img.shields.io/badge/Guest_Experience_Specialist-Customer_Service_Supervisor_Associate-4B9CD3?style=for-the-badge" />
