@@ -1,82 +1,103 @@
 # Hi, I'm Ismael Nasir 👋
 
-### Data Analyst | Economist | Business Intelligence | Statistical Analysis
+**Data Analyst | Data Engineering | SQL | Python | Power BI | ETL | AWS**
 
-I am a Data Analyst, Economist, and data professional with expertise in data analysis, statistical modeling, business intelligence, and data visualization. I work with **Python, SQL, R, Power BI, Tableau, Excel, Microsoft SQL Server, and STATA**, along with tools and libraries including **Pandas, NumPy, Scikit-learn, and SciPy**. I hold professional certifications including the **Google Data Analytics Professional Certificate** and **CompTIA Data+**. I enjoy transforming complex datasets into meaningful insights and actionable recommendations that support data-driven decision-making.
+I am a Data Analyst and Economist with expertise in data analysis, statistical modeling, business intelligence, data visualization, and data engineering. I work with **Python, SQL, R, Power BI, Tableau, Excel, Microsoft SQL Server, STATA, ETL, and AWS**, along with tools and libraries including **Pandas, NumPy, Scikit-learn, and SciPy**. I hold professional certifications including the **Google Data Analytics Professional Certificate** and **CompTIA Data+**. I enjoy transforming complex datasets into meaningful insights, building reliable data workflows, and developing actionable recommendations that support data-driven decision-making.
+
+---
 
 ---
 
 ## 🛠️ Skills & Tools
 
-### 🐍 Programming & Statistical Analysis
+### 🏗️ Data Engineering
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/ETL%2FELT-4B9CD3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data_Extraction-4B9CD3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data_Cleaning-4B9CD3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data_Transformation-4B9CD3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data_Integration-4B9CD3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data_Validation-4B9CD3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data_Pipelines-4B9CD3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data_Modeling-4B9CD3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data_Quality-4B9CD3?style=for-the-badge" />
+
+</p>
+
+### ☁️ Cloud & AWS
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_Glue-8A2BE2?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon_Athena-8A2BE2?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/Serverless_Architecture-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+
+</p>
+
+### 🗄️ Databases & SQL
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/Relational_Databases-4B9CD3?style=for-the-badge" />
+
+</p>
+
+### 🐍 Programming & Analytics
 
 <p align="left">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Basic_OOP_Concepts-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-<img src="https://img.shields.io/badge/Stata-1A4D6E?style=for-the-badge&logo=stata&logoColor=white" />
+<img src="https://img.shields.io/badge/STATA-1A4D6E?style=for-the-badge&logo=stata&logoColor=white" />
 <img src="https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge" />
 <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft&logoColor=white" />
 
 </p>
 
-### 📚 Python Libraries & Data Science
+### 📊 BI & Visualization
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
-
-</p>
-
-### 🗄️ Databases & SQL Tools
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-
-</p>
-
-### 📊 Business Intelligence & Visualization
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/DAX-512BD4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=microsoft&logoColor=black" />
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20Query-F2C811?style=for-the-badge&logo=microsoft&logoColor=black" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge" />
 
 </p>
 
-### ☁️ Cloud & Data Engineering
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-
-</p>
-
-### 🛠️ Development & Tools
+### 🛠️ Tools & Methods
 
 <p align="left">
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Requirements_Elicitation-4B9CD3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/User_Stories-4B9CD3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Quantitative_Analysis-4B9CD3?style=for-the-badge" />
 
 </p>
 
