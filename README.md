@@ -102,7 +102,20 @@ I am a Data Analyst and Economist with expertise in data analysis, statistical m
 </p>
 
 ---
+## 📌 Featured Projects
 
+* **[ShopFlow: Automated AWS Data Pipeline](https://github.com/ismael-mnasir/ShopFlow-Automated-AWS-Data-Pipeline)** | *AWS (S3, Lambda, Glue, Athena), Python, ETL*  
+  Built an event-driven serverless ETL pipeline in AWS to ingest, clean, and convert raw retail CSV data for querying in Athena.
+
+* **[Video Rental Analytics Database](https://github.com/ismael-mnasir/Video-Rental-Analytics-Database-SQL)** | *PostgreSQL, SQL, Relational Modeling*  
+  Executed relational ETL workflows and wrote advanced SQL queries to analyze store revenue and inventory trends.
+
+* **[Healthcare Analytics Dashboard](https://github.com/ismael-mnasir/Healthcare-Analytics-Dashboard-Power_BI)** | *Power BI, Power Query, DAX, Data Modeling*  
+  Designed a 4-tab Power BI report using Star Schema modeling and custom DAX measures to track patient wait times, occupancy, and hospital efficiency.
+
+* **[Retail Sales ETL Pipeline & Analysis](https://github.com/ismael-mnasir/Retail-Sales-ETL-Pipeline-Analysis-Python)** | *Python, pandas, Seaborn, Matplotlib*  
+  Developed an end-to-end Python ETL pipeline to clean, aggregate, and visualize multi-source sales data, trends, and revenue.
+  
 ## 🎓 Education
 
 <p align="left">
